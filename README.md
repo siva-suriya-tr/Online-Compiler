@@ -13,59 +13,59 @@ Overall scores from multiple users can be downloaded and stored as a handy Excel
 <br>
 <br>
 <b>1. Login Page</b><br><br>
-![](web-dev/Screenshots/login.PNG)
+![](Screenshots/login.PNG)
 <br>
 <br>
 <b>2. Navigation Screen</b><br>
-![](web-dev/Screenshots/index.PNG)
+![](Screenshots/index.PNG)
 <br>
 <br>
 <b>3. MCQ Intermediate</b><br>
-![](web-dev/Screenshots/Mcqrules.PNG)
+![](Screenshots/Mcqrules.PNG)
 <br>
 <br>
 <b>4. MCQ Question Format</b><br>
-![](web-dev/Screenshots/Mcqformat.PNG)
+![](Screenshots/Mcqformat.PNG)
 <br>
 <br>
 <b>5. Coding Intermediate</b><br>
-![](web-dev/Screenshots/progrules.PNG)
+![](Screenshots/progrules.PNG)
 <br>
 <br>
 <b>6. Coding Interface(s)</b><br>
-![](web-dev/Screenshots/code1.PNG)
+![](Screenshots/code1.PNG)
 <br>
 <br>  
-![](web-dev/Screenshots/code2.jpg)
+![](Screenshots/code2.jpg)
 <br>
 <br>
-![](web-dev/Screenshots/code3.PNG)
+![](Screenshots/code3.PNG)
 <br>
 <br>
-![](web-dev/Screenshots/code4.PNG)
+![](Screenshots/code4.PNG)
 <br>
 <br>
 <b>7. Result Page</b><br>
-![](web-dev/Screenshots/result.PNG)
+![](Screenshots/result.PNG)
 <br>
 <br>
 <b>8. Administrator Panel for Setting questions via MS-Excel</b><br>
-![](web-dev/Screenshots/adminprob.PNG)
+![](Screenshots/adminprob.PNG)
 <br>
 <br>
 <b>9. Culminative Score Preview and Download page</b><br>
-![](web-dev/Screenshots/score.PNG)
+![](Screenshots/score.PNG)
 <br>
 <br>
 <b>10. MCQ Excel Format</b><br>
-![](web-dev/Screenshots/excel.PNG)
+![](Screenshots/excel.PNG)
 <br>
 <br>
 <b>11. Coding Question Excel Format</b>
 <br>
-![](web-dev/Screenshots/excel1.PNG)
+![](Screenshots/excel1.PNG)
 <br>
 <br>
 <b>Compiler Check</b>
-![](web-dev/Screenshots/workingcompiler.gif)
+![](Screenshots/workingcompiler.gif)
  
