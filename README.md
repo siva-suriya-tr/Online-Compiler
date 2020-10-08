@@ -8,7 +8,7 @@ Both in required in the form of MS-Excel Spreadsheets.<br>
 Overall scores from multiple users can be downloaded and stored as a handy Excel spreadsheet.
 <br>
 <br>
-Partnered with: github.com/sharankarthikyan
+Partnered with: [Sharan Karthikeyan](github.com/sharankarthikyan)
 <br>
 <br>
 <b><h2>Screenshots</h2></b>
